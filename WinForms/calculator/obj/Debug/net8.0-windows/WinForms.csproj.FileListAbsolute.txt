@@ -1,0 +1,16 @@
+C:\Users\acer\Desktop\DotNet_lab\WinForms\bin\Debug\net8.0-windows\WinForms.exe
+C:\Users\acer\Desktop\DotNet_lab\WinForms\bin\Debug\net8.0-windows\WinForms.deps.json
+C:\Users\acer\Desktop\DotNet_lab\WinForms\bin\Debug\net8.0-windows\WinForms.runtimeconfig.json
+C:\Users\acer\Desktop\DotNet_lab\WinForms\bin\Debug\net8.0-windows\WinForms.dll
+C:\Users\acer\Desktop\DotNet_lab\WinForms\bin\Debug\net8.0-windows\WinForms.pdb
+C:\Users\acer\Desktop\DotNet_lab\WinForms\obj\Debug\net8.0-windows\WinForms.Form1.resources
+C:\Users\acer\Desktop\DotNet_lab\WinForms\obj\Debug\net8.0-windows\WinForms.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\DotNet_lab\WinForms\obj\Debug\net8.0-windows\WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\DotNet_lab\WinForms\obj\Debug\net8.0-windows\WinForms.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\DotNet_lab\WinForms\obj\Debug\net8.0-windows\WinForms.AssemblyInfo.cs
+C:\Users\acer\Desktop\DotNet_lab\WinForms\obj\Debug\net8.0-windows\WinForms.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\DotNet_lab\WinForms\obj\Debug\net8.0-windows\WinForms.dll
+C:\Users\acer\Desktop\DotNet_lab\WinForms\obj\Debug\net8.0-windows\refint\WinForms.dll
+C:\Users\acer\Desktop\DotNet_lab\WinForms\obj\Debug\net8.0-windows\WinForms.pdb
+C:\Users\acer\Desktop\DotNet_lab\WinForms\obj\Debug\net8.0-windows\WinForms.genruntimeconfig.cache
+C:\Users\acer\Desktop\DotNet_lab\WinForms\obj\Debug\net8.0-windows\ref\WinForms.dll

@@ -1,0 +1,5 @@
+.vs/
+calculator/bin/
+calculator/obj/
+login/bin/
+login/obj/
