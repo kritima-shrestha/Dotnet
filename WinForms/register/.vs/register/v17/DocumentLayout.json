@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\WinForms\\register\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|d:\\dotnet\\winforms\\register\\regis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|solutionrelative:regis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|d:\\dotnet\\winforms\\register\\mainpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|solutionrelative:mainpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|d:\\dotnet\\winforms\\register\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|d:\\dotnet\\winforms\\register\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|d:\\dotnet\\winforms\\register\\register.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|solutionrelative:register.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|d:\\dotnet\\winforms\\register\\register.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|solutionrelative:register.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|d:\\dotnet\\winforms\\register\\mainpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|solutionrelative:mainpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|D:\\DotNet\\WinForms\\register\\regis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|solutionrelative:regis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|d:\\dotnet\\winforms\\register\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|d:\\dotnet\\winforms\\register\\regis.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|solutionrelative:regis.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|d:\\dotnet\\winforms\\register\\regis.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|solutionrelative:regis.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|d:\\dotnet\\winforms\\register\\mainpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|solutionrelative:mainpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|d:\\dotnet\\winforms\\register\\mainpanel.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|solutionrelative:mainpanel.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|d:\\dotnet\\winforms\\register\\calculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C5F7826-BE18-4FC8-B8B3-1571DDE8D2CE}|register.csproj|solutionrelative:calculator.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "register",
+              "DocumentMoniker": "D:\\DotNet\\WinForms\\register\\register.csproj",
+              "RelativeDocumentMoniker": "register.csproj",
+              "ToolTip": "D:\\DotNet\\WinForms\\register\\register.csproj",
+              "RelativeToolTip": "register.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T16:55:50.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\WinForms\\register\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DotNet\\WinForms\\register\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:55:24.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "regis.cs",
+              "DocumentMoniker": "D:\\DotNet\\WinForms\\register\\regis.cs",
+              "RelativeDocumentMoniker": "regis.cs",
+              "ToolTip": "D:\\DotNet\\WinForms\\register\\regis.cs",
+              "RelativeToolTip": "regis.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAQwGMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:20:02.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "calculator.cs [Design]",
+              "DocumentMoniker": "D:\\DotNet\\WinForms\\register\\calculator.cs",
+              "RelativeDocumentMoniker": "calculator.cs",
+              "ToolTip": "D:\\DotNet\\WinForms\\register\\calculator.cs [Design]",
+              "RelativeToolTip": "calculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:17:06.503Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mainpanel.cs [Design]",
+              "DocumentMoniker": "D:\\DotNet\\WinForms\\register\\mainpanel.cs",
+              "RelativeDocumentMoniker": "mainpanel.cs",
+              "ToolTip": "D:\\DotNet\\WinForms\\register\\mainpanel.cs [Design]",
+              "RelativeToolTip": "mainpanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:04:59.013Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "register.csproj",
+              "DocumentMoniker": "D:\\DotNet\\WinForms\\register\\register.csproj",
+              "RelativeDocumentMoniker": "register.csproj",
+              "ToolTip": "D:\\DotNet\\WinForms\\register\\register.csproj",
+              "RelativeToolTip": "register.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T05:30:57.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "regis.cs [Design]",
+              "DocumentMoniker": "D:\\DotNet\\WinForms\\register\\regis.cs",
+              "RelativeDocumentMoniker": "regis.cs",
+              "ToolTip": "D:\\DotNet\\WinForms\\register\\regis.cs [Design]",
+              "RelativeToolTip": "regis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:19:44.798Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "mainpanel.cs",
+              "DocumentMoniker": "D:\\DotNet\\WinForms\\register\\mainpanel.cs",
+              "RelativeDocumentMoniker": "mainpanel.cs",
+              "ToolTip": "D:\\DotNet\\WinForms\\register\\mainpanel.cs",
+              "RelativeToolTip": "mainpanel.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwGUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:39:49.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "D:\\DotNet\\WinForms\\register\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "D:\\DotNet\\WinForms\\register\\login.cs [Design]",
+              "RelativeToolTip": "login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:21:12.127Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "regis.Designer.cs",
+              "DocumentMoniker": "D:\\DotNet\\WinForms\\register\\regis.Designer.cs",
+              "RelativeDocumentMoniker": "regis.Designer.cs",
+              "ToolTip": "D:\\DotNet\\WinForms\\register\\regis.Designer.cs",
+              "RelativeToolTip": "regis.Designer.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAlwOQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:17:28.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "regis.resx",
+              "DocumentMoniker": "D:\\DotNet\\WinForms\\register\\regis.resx",
+              "RelativeDocumentMoniker": "regis.resx",
+              "ToolTip": "D:\\DotNet\\WinForms\\register\\regis.resx",
+              "RelativeToolTip": "regis.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-04T06:17:33.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "mainpanel.Designer.cs",
+              "DocumentMoniker": "D:\\DotNet\\WinForms\\register\\mainpanel.Designer.cs",
+              "RelativeDocumentMoniker": "mainpanel.Designer.cs",
+              "ToolTip": "D:\\DotNet\\WinForms\\register\\mainpanel.Designer.cs",
+              "RelativeToolTip": "mainpanel.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:47:45.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "mainpanel.resx",
+              "DocumentMoniker": "D:\\DotNet\\WinForms\\register\\mainpanel.resx",
+              "RelativeDocumentMoniker": "mainpanel.resx",
+              "ToolTip": "D:\\DotNet\\WinForms\\register\\mainpanel.resx",
+              "RelativeToolTip": "mainpanel.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-04T05:53:44.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "calculator.Designer.cs",
+              "DocumentMoniker": "D:\\DotNet\\WinForms\\register\\calculator.Designer.cs",
+              "RelativeDocumentMoniker": "calculator.Designer.cs",
+              "ToolTip": "D:\\DotNet\\WinForms\\register\\calculator.Designer.cs",
+              "RelativeToolTip": "calculator.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:49:57.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

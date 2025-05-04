@@ -3,4 +3,7 @@ calculator/bin/
 calculator/obj/
 login/bin/
 login/obj/
-login/.vs
+login/.vs/
+register/.vs/
+register/bin/
+register/obj/
